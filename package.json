@@ -1,0 +1,22 @@
+{
+  "name": "verilisity-s24-pink-theme",
+  "displayName": "verilisity-s24-pink-theme",
+  "description": "Dark theme with pink accents",
+  "version": "0.0.1",
+  "publisher": "verilisity",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "s24 pink theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/s24 pink theme-color-theme.json"
+      }
+    ]
+  }
+}
